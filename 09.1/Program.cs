@@ -32,7 +32,6 @@ namespace _09._1
         {
             Property property = new Property('A', 10);
 
-            //string fieldsText = property.FieldsText;
             Console.WriteLine(property.textProperty);
 
             Console.CursorVisible = false;
